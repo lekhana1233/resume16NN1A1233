@@ -1,0 +1,55 @@
+{
+	"profile":{
+		"image":"image.jpg",
+		"name":"lekhana",
+		"instiute":"vignan nirula",
+		"rollno":"16NN1A1233",
+		"degree":"b.tech",
+		"place":"palakaluru"
+
+},
+ "career":{
+ 		"info":"to secure a challenging position in an reputable org to expand learning"
+ },
+ "educational":[
+ 	{
+ 			"degree":"btech",
+ 			"institution":"vignan's nirula",
+ 			"yop":"2020"
+ 	},
+ 	{
+ 		"degree":"inter",
+ 		"institution":"vignan",
+ 		"yop":"2016"
+ 	}, {"degree":"ssc",
+ 		"institution":"vignan",
+ 		"yop":"2014"
+ 	}
+ ],
+ "languages":[
+ 	{
+ 		"lang":"telugu"
+ 	},
+ 	{
+ 		"lang":"english"
+ 	},
+ 	{
+ 		"lang":"hindi"
+ 	}
+ ],
+ "skills":[
+ 	{
+ 		"title":"platforms",
+ 		"content":"windows,linux"
+ 	},
+ 	{
+ 		"title":"programming languages",
+ 		"content":"c,c++,java"
+ 	},
+ 	{
+ 		"title":"databases",
+ 		"content":"mysql"
+ 	}
+ ]
+
+} 
